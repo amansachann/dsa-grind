@@ -1,8 +1,4 @@
-# String Medium Problems
-
-### 1. Additive Number
-
-[Leetcode-306](https://leetcode.com/problems/additive-number/description/)
+### [Additive Number](https://leetcode.com/problems/additive-number/description/)
 
 ```java
 import java.math.BigInteger;
@@ -52,5 +48,3 @@ class Solution {
 ```
 - **⏱ Time Complexity:** O(N^3) in worst case
 - **💾 Space:** O(N) for substrings + BigInteger operations.
-
----

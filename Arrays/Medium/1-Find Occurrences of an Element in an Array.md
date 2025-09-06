@@ -1,5 +1,3 @@
-# Medium Problems
-
 ### [3159. Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/description/)
 ```java
 class Solution {
@@ -25,4 +23,3 @@ class Solution {
 ```
 - **⏱ Time Complexity:** O(N+K) 
 - **💾 Space:** O(K) 
----
