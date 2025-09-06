@@ -128,4 +128,3 @@ class Solution {
     }
 }
 ```
-### 4.
